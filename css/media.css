@@ -1,0 +1,40 @@
+
+@media (max-width: 425px) {
+	header {
+		height: 5vh;
+	}
+}
+@media (max-width: 1024px) {
+	.right-section1 {
+		font-size: 12px;
+	}
+	.sidebar-logo {
+		height: 130px;
+	}
+	.sidebar {
+		width: 40%;
+	}
+	.content {
+		width: 60%;
+	}
+	.content-header {
+		height: 110px;
+	}
+	.content-body {
+		flex-direction: column;
+	}
+	.content-body-clients {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.content-body-static {
+		width: 100%;
+
+	}
+	.conv {
+		padding: 0 5px;
+	}
+	#emofon {
+		padding: 0 5px;
+	}
+}
